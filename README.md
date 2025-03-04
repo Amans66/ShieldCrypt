@@ -1,7 +1,10 @@
 # ShieldCrypt – Advanced Two-Level Encryption Tool 🔒
 Author: Aman Singh
+
 GitHub: Amans66
+
 LinkedIn: Aman Singh
+
 Description: ShieldCrypt is a powerful two-layer encryption tool designed for securing sensitive data using a hybrid encryption approach. It first applies a custom encryption method (ROT13 + character substitution) and then encrypts the result using AES-128 encryption. This ensures double protection for your data.
 How is ShieldCrypt Helpful?
 🔹 Enhanced Security: Using two levels of encryption ensures added protection against brute-force attacks.
