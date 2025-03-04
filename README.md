@@ -24,6 +24,10 @@ Where Can ShieldCrypt Be Used?
 Before running ShieldCrypt, install the necessary Python modules:
 
 # bash
+python3 -m venv venv
+
+source venv/bin/activate
+
 sudo apt update && sudo apt install python3 python3-pip -y
 pip install pyfiglet termcolor pycryptodome
 
