@@ -30,6 +30,7 @@ pip install pyfiglet termcolor pycryptodome
 # Step 2: Clone the Repository
 # bash
 git clone https://github.com/Amans66/ShieldCrypt.git
+
 cd ShieldCrypt
 
 # Step 3: Run ShieldCrypt
